@@ -29,3 +29,5 @@ Disallow: /*mobile=yes*
 增加一些文字
 这是限制蜘蛛访问的设置
 xxx
+
+master
